@@ -14,7 +14,7 @@ namespace мини_CRM
 {
     public partial class Form1 : Form
     {
-        private List<Client> clients = new List<Client>(); // Список клиентов
+        private List<Client> clients = new List<Client>(); // Список клиентов.
         private List<Order> orders = new List<Order>();   // Список заказов
 
         public Form1()
